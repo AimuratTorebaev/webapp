@@ -1,6 +1,7 @@
 Java Web Online Project 
 ===============================
 ## Практика Java. Разработка Web приложения.
+Приложение будет разрабатываться начиная со первого занятия, основываясь на базовых темах курса: объектная модель, коллекции, система ввода-вывода, работа с файлами, сериализация, работа с XML, JSON, SQL, персистентность в базу данных (PostgreSQL), сервлеты, JSP/JSTL, веб-контейнер Tomcat, HTML, модульные тесты JUnit, java.util.Logging, система контроля версий Git.
 
 ### 1. ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFUFI0dGh4QjA5U0k" target="_blank">Обзор проекта</a>
 
