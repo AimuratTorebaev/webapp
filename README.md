@@ -48,6 +48,9 @@ Java Web Online Project
 
 ### Ресурсы для подготовки
 -  <a href="http://www.intuit.ru/studies/courses/16/16/info">Интуит. Программирование на Java</a>
+-  <a href="https://stepic.org/course/Java-Базовый-курс-187">Java. Бесплатный базовый курс</a>
+- <a href="http://myflex.org/books/java4kids/java4kids.htm">Java Programming for Kids, Parents and Grandparents
+by YAKOV FAIN</a>
 -  <a href="https://www.codecademy.com/learn/learn-sql">Learn SQL</a>
 -  <a href="http://campus.codeschool.com/courses/try-sql/contents">Try SQL</a>
 -  <a href="http://www.intuit.ru/studies/courses/1102/134/info">Основы работы с HTML</a>
